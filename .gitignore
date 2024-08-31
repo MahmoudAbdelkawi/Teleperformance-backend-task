@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build outputs and binaries
+Authentication_CRUD_Operation/bin/
+Authentication_CRUD_Operation/obj/
+Authentication_CRUD_Operation_Test/bin/
+Authentication_CRUD_Operation_Test/obj/
+
+# Ignore solution file if needed
+Authentication_CRUD_Operation.sln
+
+
+Authentication_CRUD_Operation/Migrations/
